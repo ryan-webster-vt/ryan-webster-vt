@@ -36,7 +36,11 @@
 ---
 ## 📫 Let's Connect!
 - 📧 Email: [rpw.webster@gmail.com](mailto:rpw.webster@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/ryan-webster-vt/](https://www.linkedin.com/in/ryan-webster-vt/)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ryan-webster-vt/](https://www.linkedin.com/in/ryan-webster-vt/)
+
+  
+
+_“If we have data, let’s look at data. If all we have are opinions, let’s go with mine.” - Jim Barksdale_
 
 
 <!--
