@@ -5,6 +5,17 @@
 🔍 I'm passionate about using data to uncover insights, solve real-world problems, and drive better decision-making. Whether it's building predictive models, cleaning and analyzing messy datasets, or creating interactive dashboards, I'm all in.
 
 ---
+## 🧪 Projects
+### March-Madness At-Large Predictor
+Built a predictive model to identify at-large bids for the 2025 NCAA March Madness Tournament by web-scraping team metrics using rvest from sites like College Basketball Reference and Barttorvik. After engineering features related to team efficiency, strength of schedule, and win metrics, I tested multiple machine learning approaches and selected Ridge Regression for its strong performance and ability to handle multicollinearity. The final model achieved 96% accuracy while correctly predicting 36 of the 37 at-large teams selected for the tournament.                                                                                                                                                                                    
+🔗 [View Project](https://github.com/your-username/injury-risk-dashboard)
+
+### Hospital Database
+Developed a full-stack, fictional hospital management system with a strong emphasis on SQL-based relational database design, implementation, and management. The backend is powered by Python’s Flask framework, with a dynamic front-end built using HTML/CSS. The system supports secure user authentication (sign-up, login, password change) and displays personalized content based on user roles (Admin, Doctor/Nurse, Patient), enabling customized access to features and data.
+
+🔗 [View Project](https://github.com/ryan-webster-vt/Hospital-Database)
+
+---
 
 ## 🔧 Technical Skills
 **Languages & Programming Tools**  
