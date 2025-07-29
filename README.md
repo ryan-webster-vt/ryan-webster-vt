@@ -1,4 +1,43 @@
-## Hi there 👋
+# Greetings 👋
+
+🎓 Recent graduate from **Virginia Tech** (Go Hokies! 🦃) with dual B.S. degrees in **Statistics** and **Computational Modeling & Data Analytics**, plus minors in **Computer Science** and **Mathematics**.
+
+🔍 I'm passionate about using data to uncover insights, solve real-world problems, and drive better decision-making. Whether it's building predictive models, cleaning and analyzing messy datasets, or creating interactive dashboards, I'm all in.
+
+---
+
+## 🔧 Technical Skills
+**Languages & Programming Tools**  
+`Python` · `R` · `SQL` · `Java` · `C` · `MATLAB` · `HTML/CSS` · `LaTeX`
+
+**Data Analysis & Visualization Tools**  
+`Jupyter Notebook` · `Quarto` · `Microsoft Excel` · `Tableau`
+
+**Libraries & Frameworks**  
+`pandas` · `numpy` · `scikit-learn` · `matplotlib` · `seaborn`  
+`ggplot2` · `dplyr` · `tidyverse` · `shiny`
+
+**Version Control & Collaboration**  
+`Git` · `GitHub`
+
+**Areas of Expertise**  
+- 📊 Data Wrangling & Cleaning  
+- 🔍 Exploratory Data Analysis (EDA)  
+- 📈 Predictive Modeling  
+- 📐 Statistical Inference & Hypothesis Testing  
+- 📊 Data Visualization & Storytelling  
+- 🤖 Machine Learning (Regression, Classification, Clustering)
+
+---
+
+## 📜 Certifications
+- **Google Advanced Data Analytics Specialization** (Coursera)
+
+---
+## 📫 Let's Connect!
+- 📧 Email: [rpw.webster@gmail.com](mailto:rpw.webster@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/ryan-webster-vt/](https://www.linkedin.com/in/ryan-webster-vt/)  
+
 
 <!--
 **ryan-webster-vt/ryan-webster-vt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
