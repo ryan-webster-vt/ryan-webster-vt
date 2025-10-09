@@ -1,8 +1,8 @@
 # Greetings 👋
 
-🎓 Recent graduate from **Virginia Tech** (Go Hokies! 🦃) with dual B.S. degrees in **Statistics** and **Computational Modeling & Data Analytics**, plus minors in **Computer Science** and **Mathematics**.
+Recent graduate from **Virginia Tech** (Go Hokies! 🦃) with dual B.S. degrees in **Statistics** and **Computational Modeling & Data Analytics**, plus minors in **Computer Science** and **Mathematics**.
 
-🔍 I'm passionate about using data to uncover insights, solve real-world problems, and drive better decision-making. Whether it's building predictive models, cleaning and analyzing messy datasets, or creating interactive dashboards, I'm all in.
+I'm passionate about using data to uncover insights, solve real-world problems, and drive better decision-making. Whether it's building predictive models, cleaning and analyzing messy datasets, or creating interactive dashboards, I'm all in.
 
 ---
 
@@ -58,10 +58,10 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 
 ## Let's Connect!
 
-- 🌐 Portfolio: [https://ryan-webster-vt.github.io/](https://ryan-webster-vt.github.io/)
-- 📧 Email: [rpw.webster@gmail.com](mailto:rpw.webster@gmail.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/ryan-webster-vt/](https://www.linkedin.com/in/ryan-webster-vt/)
-- ✍️ Substack: [https://ryanwebsterstats.substack.com/](https://ryanwebsterstats.substack.com/)
+- Portfolio: [https://ryan-webster-vt.github.io/](https://ryan-webster-vt.github.io/)
+- Email: [rpw.webster@gmail.com](mailto:rpw.webster@gmail.com)  
+- LinkedIn: [https://www.linkedin.com/in/ryan-webster-vt/](https://www.linkedin.com/in/ryan-webster-vt/)
+- Substack: [https://ryanwebsterstats.substack.com/](https://ryanwebsterstats.substack.com/)
 
 ---
 
