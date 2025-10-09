@@ -6,7 +6,7 @@
 
 ---
 
-## 🧪 Projects
+## Projects
 
 ### March Madness At-Large Predictor  
 Built a predictive model to identify at-large bids for the 2025 NCAA March Madness Tournament by web-scraping team metrics using `rvest` from sites like College Basketball Reference and Barttorvik. After engineering features related to team efficiency, strength of schedule, and win metrics, I tested multiple machine learning approaches and selected Ridge Regression for its strong performance and ability to handle multicollinearity. The final model achieved 96% accuracy, correctly predicting 36 of the 37 at-large teams selected.
@@ -22,7 +22,7 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
 **Languages & Programming Tools**  
 `Python` · `R` · `SQL` · `Java` · `C` · `MATLAB` · `HTML/CSS` · `LaTeX`
@@ -38,16 +38,16 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 `Git` · `GitHub`
 
 **Areas of Expertise**  
-- 📊 Data Wrangling & Cleaning  
-- 🔍 Exploratory Data Analysis (EDA)  
-- 📈 Predictive Modeling  
-- 📐 Statistical Inference & Hypothesis Testing  
-- 📊 Data Visualization & Storytelling  
-- 🤖 Machine Learning (Regression, Classification, Clustering)
+- Data Wrangling & Cleaning  
+- Exploratory Data Analysis (EDA)  
+- Predictive Modeling  
+- Statistical Inference & Hypothesis Testing  
+- Data Visualization & Storytelling  
+- Machine Learning (Regression, Classification, Clustering)
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - **Google Advanced Data Analytics Specialization** (Coursera)
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/WTUUJQR2CF6K)
@@ -56,7 +56,7 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 - 🌐 Portfolio: [https://ryan-webster-vt.github.io/](https://ryan-webster-vt.github.io/)
 - 📧 Email: [rpw.webster@gmail.com](mailto:rpw.webster@gmail.com)  
