@@ -57,6 +57,7 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 🔗 [View Certificate](https://www.coursera.org/account/accomplishments/specialization/WTUUJQR2CF6K)
 - **AWS Certified Cloud Practitioner (CLF-C02)**
 🔗 [View Certificate](https://www.credly.com/earner/earned/badge/bf196f10-ab44-4ed7-983e-8f145f0499c5)
+- Pursuing **AWS Certified Data Engineer - Associate (DEA-C01)**
 
 ---
 
