@@ -1,8 +1,8 @@
 # Greetings 👋
 
-Recent graduate from **Virginia Tech** (Go Hokies! 🦃) with dual B.S. degrees in **Statistics** and **Computational Modeling & Data Analytics**, plus minors in **Computer Science** and **Mathematics**.
+My name is Ryan Webster and I am a recent graduate from **Virginia Tech** (Go Hokies! 🦃) with dual B.S. degrees in **Statistics** and **Computational Modeling & Data Analytics**, plus minors in **Computer Science** and **Mathematics**.
 
-I'm passionate about using data to uncover insights, solve real-world problems, and drive better decision-making. Whether it's building predictive models, cleaning and analyzing messy datasets, or creating interactive dashboards, I'm all in.
+I'm actively seeking opportunities in data analytics, data science, or related roles where I can apply my skills to solve meaningful problems.
 
 ---
 
