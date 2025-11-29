@@ -30,19 +30,15 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 ## Technical Skills
 
 **Programming & Scripting**  
-`Python` (pandas, numpy, scikit-learn, matplotlib, seaborn) · `R` (ggplot2, dplyr, tidyverse, shiny, rvest) · `Java` · `C` · `MATLAB` · `HTML/CSS` · `LaTeX`
+`Python` (pandas, numpy, scikit-learn, matplotlib, seaborn, Flask) · `R` (ggplot2, dplyr, tidyverse, shiny, rvest) · `SQL` · `Java` · `C` · `MATLAB` · `HTML/CSS` · `LaTeX`
 
 **Data Analysis & Visualization**  
 `Jupyter Notebook` · `Quarto` · `Microsoft Excel` · `Tableau`
 
-**Databases**
+**Databases**  
 `PostgreSQL` · `MySQL`
 
-**Libraries & Frameworks**  
-`pandas` · `numpy` · `scikit-learn` · `matplotlib` · `seaborn`  
-`ggplot2` · `dplyr` · `tidyverse` · `shiny`
-
-**Cloud & DevOps Tools**
+**Cloud & DevOps Tools**  
 `AWS` (S3, Glue, Lambda, Athena, Redshift, SageMaker, IAM) · `Git` · `Docker`
 
 **Areas of Expertise**  
