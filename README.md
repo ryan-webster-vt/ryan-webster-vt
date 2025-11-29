@@ -8,6 +8,11 @@ I'm actively seeking opportunities in data analytics, data science, or related r
 
 ## Projects
 
+### Non-Contact Injury Risk Analysis
+Led a team of 4 to develop a Cox Proportional Hazards Model analyzing telemetry and health data for 100+ collegiate football athletes across 300+ variables. The model identified seven key predictors of non-contact injury risk, leveraging survival analysis techniques to handle time-to-event data with censoring. Designed an interactive R script with version control via Git to generate individualized injury probability forecasts over customizable timeframes, empowering coaching staff to make data-driven decisions for player health management. Delivered actionable recommendations to stakeholders, demonstrating how predictive modeling can reduce injury risk in high-performance athletics.
+
+🔗 [View Project Repository](https://github.com/ryan-webster-vt/vt_football_injury_deliverable)
+
 ### March Madness At-Large Predictor  
 Built a predictive model to identify at-large bids for the 2025 NCAA March Madness Tournament by web-scraping team metrics using `rvest` from sites like College Basketball Reference and Barttorvik. After engineering features related to team efficiency, strength of schedule, and win metrics, I tested multiple machine learning approaches and selected Ridge Regression for its strong performance and ability to handle multicollinearity. The final model achieved 96% accuracy, correctly predicting 36 of the 37 at-large teams selected.
 
@@ -24,18 +29,21 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 
 ## Technical Skills
 
-**Languages & Programming Tools**  
-`Python` · `R` · `SQL` · `Java` · `C` · `MATLAB` · `HTML/CSS` · `LaTeX`
+**Programming & Scripting**  
+`Python` (pandas, numpy, scikit-learn, matplotlib, seaborn) · `R` (ggplot2, dplyr, tidyverse, shiny, rvest) · `Java` · `C` · `MATLAB` · `HTML/CSS` · `LaTeX`
 
-**Data Analysis & Visualization Tools**  
+**Data Analysis & Visualization**  
 `Jupyter Notebook` · `Quarto` · `Microsoft Excel` · `Tableau`
+
+**Databases**
+`PostgreSQL` · `MySQL`
 
 **Libraries & Frameworks**  
 `pandas` · `numpy` · `scikit-learn` · `matplotlib` · `seaborn`  
 `ggplot2` · `dplyr` · `tidyverse` · `shiny`
 
-**Version Control & Collaboration**  
-`Git` · `GitHub`
+**Cloud & DevOps Tools**
+`AWS` (S3, Glue, Lambda, Athena, Redshift, SageMaker, IAM) · `Git` · `Docker`
 
 **Areas of Expertise**  
 - Data Wrangling & Cleaning  
