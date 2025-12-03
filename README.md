@@ -67,6 +67,7 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 - Email: [rpw.webster@gmail.com](mailto:rpw.webster@gmail.com)  
 - LinkedIn: [https://www.linkedin.com/in/ryan-webster-vt/](https://www.linkedin.com/in/ryan-webster-vt/)
 - Substack: [https://ryanwebsterstats.substack.com/](https://ryanwebsterstats.substack.com/)
+- Kaggle: [https://www.kaggle.com/websterryan](https://www.kaggle.com/websterryan)
 
 ---
 
