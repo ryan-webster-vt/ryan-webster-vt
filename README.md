@@ -13,11 +13,11 @@ Led a team of 4 to develop a Cox Proportional Hazards Model analyzing telemetry 
 
 🔗 [View Project Repository](https://github.com/ryan-webster-vt/vt_football_injury_deliverable)
 
-### March Madness At-Large Predictor  
-Built a predictive model to identify at-large bids for the 2025 NCAA March Madness Tournament by web-scraping team metrics using `rvest` from sites like College Basketball Reference and Barttorvik. After engineering features related to team efficiency, strength of schedule, and win metrics, I tested multiple machine learning approaches and selected Ridge Regression for its strong performance and ability to handle multicollinearity. The final model achieved 96% accuracy, correctly predicting 36 of the 37 at-large teams selected.
+### WebStar Analytics
+Led development of an automated sports data pipeline and analytics platform that models and ranks all 365 NCAA Division I men’s basketball teams on a daily basis. Calculated adjusted offensive and defensive efficiencies using points per possession, opponent quality, and home-court advantage, leveraging a Bayesian hierarchical model for robust team ratings. Built predictive scripts in Python to compute spreads and home win probabilities for each day’s matchups, enabling comparison with sportsbook odds and supporting informed decision-making. Integrated AWS S3, EC2, and CloudFront to manage data efficiently and deliver real-time predictions, with version-controlled code ensuring reproducibility and scalability.
 
-🔗 [View Project Repository](https://github.com/ryan-webster-vt/Substack/tree/main/March%20Madness%20At-Large%20Bids)
-🔗 [View Project on Portfolio](https://ryan-webster-vt.github.io/projects/march_madness.html)
+🔗 [View Project Repository](https://github.com/ryan-webster-vt/webstar)
+🔗 [View Project Website](https://www.webstaranalytics.com/)
 
 ### Hospital Database  
 Developed a full-stack, fictional hospital management system emphasizing SQL-based relational database design, implementation, and management. The backend is powered by Python’s Flask framework, with a dynamic front-end built using HTML/CSS. The system supports secure user authentication (sign-up, login, password change) and displays personalized content based on user roles (Admin, Doctor/Nurse, Patient), enabling customized access to features and data.
@@ -39,7 +39,7 @@ Developed a full-stack, fictional hospital management system emphasizing SQL-bas
 `PostgreSQL` · `MySQL`
 
 **Cloud & DevOps Tools**  
-`AWS` (S3, Glue, Lambda, Athena, Redshift, SageMaker, IAM) · `Git` · `Docker`
+`AWS` (S3, EC2, Glue, Lambda, Athena, Redshift, SageMaker, IAM) · `Git` · `Docker`
 
 **Areas of Expertise**  
 - Data Wrangling & Cleaning  
